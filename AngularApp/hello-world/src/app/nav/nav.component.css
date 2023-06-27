@@ -1,0 +1,17 @@
+.navbar {
+    display : flex;
+    background-color: skyblue;
+}
+.site-name {
+    padding: 5px 30px;
+    color :blueviolet;
+}
+.site-menu {
+    padding: 10px 30px;
+    margin-left: 100px;
+}
+a {
+    text-decoration: none;
+    color :black;
+    margin : 2px 10px;
+}
